@@ -1,52 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d243c83f-50c3-4ae4-9b25-340c6d2af0df" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade6/AgentMind.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade6/Environment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade6/ExperimentMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade6/codelets/behaviors/MotionCodelet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade6/codelets/motor/LegsActionCodelet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade6/codelets/perception/WallDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade6/codelets/sensors/InnerSense.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade6/codelets/sensors/Vision.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade6/memory/CreatureInnerSense.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade6/memory/Proposition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade6/model/Coordinate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade6/model/GridMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade6/model/Helper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade6/model/SimulationStatus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade6/support/MVTimerTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade6/support/MindView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade6/support/MindView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/AgentMind.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/Environment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/ExperimentMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/behaviors/EatClosestApple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/behaviors/EndSimulation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/behaviors/GetClosestJewel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/behaviors/GoToClosestApple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/behaviors/GoToClosestJewel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/behaviors/Search.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/behaviors/Unstuck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/motor/HandsActionCodelet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/motor/LegsActionCodelet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/perception/AppleDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/perception/ClosestAppleDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/perception/ClosestJewelDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/perception/FuelLevelDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/perception/JewelDetector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/sensors/InnerSense.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/codelets/sensors/Vision.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/memory/CreatureInnerSense.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/memory/Proposition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/model/Helper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/model/SimulationStatus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/support/MVTimerTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/support/MindView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/support/MindView.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Atividade6.iml" afterPath="$PROJECT_DIR$/Atividade6.iml" />
-    </list>
+    <list default="true" id="d243c83f-50c3-4ae4-9b25-340c6d2af0df" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -454,12 +409,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1498532894911</updated>
-      <workItem from="1498532897778" duration="100000" />
+      <workItem from="1498532897778" duration="656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100000" />
+    <option name="totallyTimeSpent" value="656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
